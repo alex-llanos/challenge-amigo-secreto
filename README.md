@@ -2,7 +2,7 @@
 Primer Challenge para Alura - Programa ONE - Oracle Next Education
 
 ![imagen](https://github.com/user-attachments/assets/72e77db2-8a7b-4c8f-96ff-4ec5065c7e45)
-)  
+
 ## Herramientas utilizadas:
 
 * HTML
@@ -24,6 +24,6 @@ El principal objetivo de este desafío es desarrollar las habilidades en lógica
 
 ## Hecho por:
 
-###Alex Llanos
+### Alex Llanos
 
 ### Linkedin: www.linkedin.com/in/alexllanos-telecom
